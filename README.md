@@ -34,9 +34,9 @@ Three subjects were run independently through first-level FEAT to compare indivi
 
 Large, strong bilateral activation — the biggest and most robust response of the three subjects, spanning frontal, parietal, and midline regions consistent with cognitive control engagement.
 
-![Activation map](images/sub-f1027ao_activation.jpg)
-![Cluster list](images/sub-f1027ao_clusterlist.jpg)
-![Design matrix](images/sub-f1027ao_designmatrix.jpg)
+![Activation map](sub-f1027ao/Sub-f1027ao_ActivationMap.png)
+![Cluster list](sub-f1027ao/Sub-f1027ao_ClusterLIst.png)
+![Design matrix](sub-f1027ao/Sub-f1027ao_DesignMatrix.png)
 
 ---
 
@@ -52,9 +52,9 @@ Large, strong bilateral activation — the biggest and most robust response of t
 
 More moderate activation extent than sub-f1027ao, but a similar overall spatial pattern — frontal and posterior clusters, smaller in size and peak intensity.
 
-![Activation map](images/sub-f1031ax_activation.jpg)
-![Cluster list](images/sub-f1031ax_clusterlist.jpg)
-![Design matrix](images/sub-f1031ax_designmatrix.jpg)
+![Activation map](sub-f1031ax/Sub-f1031ax_ActivationMap.png)
+![Cluster list](sub-f1031ax/Sub-f1031ax_ClusterList.png)
+![Design matrix](sub-f1031ax/Sub-f1031ax_DesignMatrix.png)
 
 ---
 
@@ -70,9 +70,9 @@ More moderate activation extent than sub-f1027ao, but a similar overall spatial 
 
 Smallest cluster extents of the three, though peak Z-values are comparable to sub-f1031ax — illustrating natural inter-subject variability in task-related activation strength.
 
-![Activation map](images/sub-f2709ul_activation.jpg)
-![Cluster list](images/sub-f2709ul_clusterlist.jpg)
-![Design matrix](images/sub-f2709ul_designmatrix.jpg)
+![Activation map](sub-f2709ul/Sub-f2709ul_ActivationMap.png)
+![Cluster list](sub-f2709ul/Sub-f2709ul_ClusterLIst.png)
+![Design matrix](sub-f2709ul/Sub-f2709ul_DesignMatrix.png)
 
 ---
 
